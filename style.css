@@ -1,0 +1,57 @@
+@-webkit-keyframes fadeIn {
+0% { opacity: 0; }
+100% { opacity: 1; }
+}
+@-moz-keyframes fadeIn {
+0% { opacity: 0;}
+100% { opacity: 1; }
+}
+@-o-keyframes fadeIn {
+0% { opacity: 0; }
+100% { opacity: 1; }
+}
+@keyframes fadeIn {
+0% { opacity: 0; }
+100% { opacity: 1; }
+}
+.fadeIn {
+-webkit-animation: fadeIn 2s ease-in-out;
+-moz-animation: fadeIn 2s ease-in-out;
+-o-animation: fadeIn 2s ease-in-out;
+animation: fadeIn 2s ease-in-out;
+}
+
+.btn-action{
+  background: transparent;
+  border: 1px #fff solid;
+}
+
+.titulo{
+  margin-top: 30px;
+}
+
+
+.section{
+  margin-top: 50px;
+  border: 1px #00995D solid;
+  background: #FFFAFA;
+}
+.sectionWrong{
+  margin-top: 50px;
+  border: 1px #00995D solid;
+  background: #FF4500;
+}
+.sectionRight{
+  margin-top: 50px;
+  border: 1px #00995D solid;
+  background: #ADFF2F;
+}
+
+.section-item{
+  margin: 50px;
+
+}
+.section-btn{
+  margin-top: 50px;
+
+}
