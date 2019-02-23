@@ -6,3 +6,4 @@ Desenvolvimento de um quiz onde o administrador pode cadastrar as perguntas sele
 3º - URL Administrador: http://trezoteam.tecnologia.ws/admin
 4º - login: admin / senha: 123
 5º - Acessar o módulo Administrador e cadastrar um novo quiz
+	
